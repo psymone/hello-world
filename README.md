@@ -1,2 +1,3 @@
 # hello-world
 a place where i store ideas, resources, or even share and discuss things with others
+well i am new to GitHub and programming and i hope to learn a lot...
